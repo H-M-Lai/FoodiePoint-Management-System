@@ -8,13 +8,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace manager
+namespace manager.design
 {
-    public partial class Form1 : Form
+    public partial class Reservation_Report : Form
     {
-        public Form1()
+        public Reservation_Report()
         {
             InitializeComponent();
+        }
+
+        private void Reservation_Report_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

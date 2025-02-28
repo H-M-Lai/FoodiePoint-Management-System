@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace manager
+namespace manager.design
 {
-    public partial class _2 : Form
+    public partial class EditCategory : Form
     {
-        public _2()
+        public EditCategory()
         {
             InitializeComponent();
         }

@@ -1,0 +1,20 @@
+D:\IOOP\IOOP Assignment\manager\manager\obj\Debug\manager.csproj.AssemblyReference.cache
+D:\IOOP\IOOP Assignment\manager\manager\obj\Debug\manager.Properties.Resources.resources
+D:\IOOP\IOOP Assignment\manager\manager\obj\Debug\manager.csproj.GenerateResource.cache
+D:\IOOP\IOOP Assignment\manager\manager\obj\Debug\manager.csproj.CoreCompileInputs.cache
+D:\IOOP\IOOP Assignment\manager\manager\obj\Debug\manager.design.FoodItem.resources
+D:\IOOP\IOOP Assignment\manager\manager\bin\Debug\database\Fodie Point Database.mdf
+D:\IOOP\IOOP Assignment\manager\manager\bin\Debug\database\Fodie Point Database_log.ldf
+D:\IOOP\IOOP Assignment\manager\manager\bin\Debug\manager.exe.config
+D:\IOOP\IOOP Assignment\manager\manager\bin\Debug\manager.exe
+D:\IOOP\IOOP Assignment\manager\manager\bin\Debug\manager.pdb
+D:\IOOP\IOOP Assignment\manager\manager\obj\Debug\manager.exe
+D:\IOOP\IOOP Assignment\manager\manager\obj\Debug\manager.pdb
+D:\IOOP\IOOP Assignment\manager\manager\obj\Debug\manager.design.manager_main_page.resources
+D:\IOOP\IOOP Assignment\manager\manager\obj\Debug\manager.design.Menu_Category_.resources
+D:\IOOP\IOOP Assignment\manager\manager\obj\Debug\manager.design.Hall.resources
+D:\IOOP\IOOP Assignment\manager\manager\obj\Debug\manager.design.Reservation_Report.resources
+D:\IOOP\IOOP Assignment\manager\manager\obj\Debug\manager.design.Update_Own_Profile.resources
+D:\IOOP\IOOP Assignment\manager\manager\obj\Debug\manager.design.EditCategory.resources
+D:\IOOP\IOOP Assignment\manager\manager\obj\Debug\manager.design.EditFoodItem.resources
+D:\IOOP\IOOP Assignment\manager\manager\obj\Debug\manager.design.EditHall.resources
