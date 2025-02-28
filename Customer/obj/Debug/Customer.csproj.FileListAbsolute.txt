@@ -1,0 +1,13 @@
+C:\2025 Degree y1s2\IOOP - Introduction to Object Oriented Programming\1\Customer\bin\Debug\Customer.exe.config
+C:\2025 Degree y1s2\IOOP - Introduction to Object Oriented Programming\1\Customer\bin\Debug\Customer.exe
+C:\2025 Degree y1s2\IOOP - Introduction to Object Oriented Programming\1\Customer\bin\Debug\Customer.pdb
+C:\2025 Degree y1s2\IOOP - Introduction to Object Oriented Programming\1\Customer\obj\Debug\Customer.csproj.AssemblyReference.cache
+C:\2025 Degree y1s2\IOOP - Introduction to Object Oriented Programming\1\Customer\obj\Debug\Customer.Customer_Main.resources
+C:\2025 Degree y1s2\IOOP - Introduction to Object Oriented Programming\1\Customer\obj\Debug\Customer.Properties.Resources.resources
+C:\2025 Degree y1s2\IOOP - Introduction to Object Oriented Programming\1\Customer\obj\Debug\Customer.csproj.GenerateResource.cache
+C:\2025 Degree y1s2\IOOP - Introduction to Object Oriented Programming\1\Customer\obj\Debug\Customer.csproj.CoreCompileInputs.cache
+C:\2025 Degree y1s2\IOOP - Introduction to Object Oriented Programming\1\Customer\obj\Debug\Customer.exe
+C:\2025 Degree y1s2\IOOP - Introduction to Object Oriented Programming\1\Customer\obj\Debug\Customer.pdb
+C:\2025 Degree y1s2\IOOP - Introduction to Object Oriented Programming\1\Customer\obj\Debug\Customer.Customer_Order.resources
+C:\2025 Degree y1s2\IOOP - Introduction to Object Oriented Programming\1\Customer\obj\Debug\Customer.Customer_Profile.resources
+C:\2025 Degree y1s2\IOOP - Introduction to Object Oriented Programming\1\Customer\obj\Debug\Customer.Customer_Feedback.resources
