@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3712A783-CC80-4C8D-893D-ACEEA7F53D5E}</ProjectGuid>
+    <ProjectGuid>{52C13222-5040-475B-BD91-3577861E5FB4}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>customer</RootNamespace>
-    <AssemblyName>customer</AssemblyName>
+    <RootNamespace>Customer</RootNamespace>
+    <AssemblyName>Customer</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -35,7 +35,6 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.DirectoryServices" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -47,16 +46,61 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="Customer_Feedback.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Customer_Feedback.Designer.cs">
+      <DependentUpon>Customer_Feedback.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer_Main.Designer.cs">
+      <DependentUpon>Customer_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer_Order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer_Order.Designer.cs">
+      <DependentUpon>Customer_Order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer_OrderStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer_OrderStatus.Designer.cs">
+      <DependentUpon>Customer_OrderStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer_Payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer_Payment.Designer.cs">
+      <DependentUpon>Customer_Payment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer_Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer_Profile.Designer.cs">
+      <DependentUpon>Customer_Profile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer_Reservation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer_Reservation.Designer.cs">
+      <DependentUpon>Customer_Reservation.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Customer_Feedback.resx">
+      <DependentUpon>Customer_Feedback.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer_Main.resx">
+      <DependentUpon>Customer_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer_Order.resx">
+      <DependentUpon>Customer_Order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer_Profile.resx">
+      <DependentUpon>Customer_Profile.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
